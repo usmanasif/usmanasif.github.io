@@ -1,0 +1,55 @@
+###############
+# Site settings
+###############
+
+title: 'Usman Asif'
+description: >
+  MS and BS in Computer Science,
+  7+ years of industry experience of building scalable web apps,
+  2 successful startups running on their own,
+  4 years of running a software house, with a team of around 30 developers.
+  10+ large scale projects.
+  Worked alone and in teams, as a leader and otherwise, with large groups and startups.
+  Experienced in front-end, back-end, system administration and test driven development.
+
+keywords: >
+  usman asif, ruby on rails, devsinc, lums, eduleaf
+
+baseurl: ''
+url: 'https://usmanasif.me' # the base hostname & protocol for your site
+
+person:
+  name: 'Usman Asif'
+  family_name: 'Asif'
+  given_name: 'Usman'
+  city: 'San Francisco Bay Area'
+  education: 'studied Computer Science at LUMS'
+  cwork: 'founded [Eduleaf](https://eduleaf.com){:target="_blank"}, a web based solution for the automation of hand written exams'
+
+developer:
+  - 'builds web, mobile and desktop applications'
+  - 'lives and breathes **Ruby on Rails**'
+  - 'likes to spice things up with **JavaScript, HTML & CSS**'
+  - 'has had flings with **Java(Android), C & PHP**'
+
+professional:
+  - >
+    shapes the future of collaborative exam grading for teachers at
+    [Eduleaf](https://eduleaf.com/){:target='_blank'}
+    *(CEO & founder)*
+
+  - >
+    led and managed development at
+    [DevsInc](http://devsinc.com){:target='_blank'}
+    *(CTO)*
+
+social:
+  github_username: 'usmanasif'
+  github_pages_repo_url: 'https://github.com/usmanasif/usmanasif.github.io'
+  linkedin_url: 'https://www.linkedin.com/in/usmanasif'
+  email: 'hi@usmanasif.me'
+  email_text: 'hi at usmanasif.me'
+
+
+# Build settings
+markdown: kramdown
