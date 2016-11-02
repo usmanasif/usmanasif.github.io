@@ -18,6 +18,14 @@ keywords: >
 baseurl: ''
 url: 'https://usmanasif.me' # the base hostname & protocol for your site
 
+defaults:
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      permalink: '/blog/:categories/:title'
+      layout: 'post'
+
 person:
   name: 'Usman Asif'
   family_name: 'Asif'

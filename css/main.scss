@@ -161,3 +161,28 @@ a {
     margin-left: 20.83332%;
   }
 }
+
+
+// Posts styling
+.post-page {
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .navbar.navbar-default {
+    background: $background-color;
+  }
+
+  .navbar-brand {
+    text-decoration: none;
+    font-size: $heading-size;
+    color: $brand-color;
+    line-height: $heading-size;
+  }
+
+  h1 small {
+    display: block;
+    color: $text-color;
+  }
+}
